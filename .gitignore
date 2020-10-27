@@ -1,3 +1,7 @@
+# ignore all these files
 *.docx
 *.pptx
 results/
+
+# but not these!
+!test.docx
